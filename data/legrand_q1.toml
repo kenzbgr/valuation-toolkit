@@ -1,0 +1,26 @@
+# EUR and shares in millions, except dates and dividend per share.
+valuation_date = 2026-05-29
+quarter_end = 2026-03-31
+results_released = 2026-05-07
+revenue = 2537.6
+ebit = 485.2
+da = 102.7
+capex = 36.4
+increase_in_nwc = 194.1
+net_financial_expense = 32.1
+net_debt = 4670.5
+minorities = 33.2
+
+# 30 April exercisable rights, used as shares outstanding excluding treasury.
+share_count_date = 2026-04-30
+share_count_released = 2026-05-05
+shares = 261.395129
+
+dividend_approved = 2026-05-27
+ex_dividend = 2026-05-29
+dividend_per_share = 2.38
+
+# Keydak and SRS announced annual sales. TES was in the March balance sheet.
+[post_q1_acquisitions]
+keydak_revenue = 60
+srs_revenue = 90

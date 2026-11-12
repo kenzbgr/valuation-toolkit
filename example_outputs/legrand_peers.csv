@@ -1,0 +1,4 @@
+ticker,name,rationale,currency,close,ebitda,eps,ev_ebitda,ev_flag,pe,pe_flag
+SU.PA,Schneider Electric,Electrical distribution and data-center power exposure. More diversified across industrial automation and software.,EUR,269.95000000,8300.00000000,7.33000000,20.15690229,Included,36.82810368,Included
+ETN,Eaton,Electrical distribution and data-center power infrastructure. Greater U.S. exposure plus aerospace.,USD,400.60000000,6310.00000000,10.45000000,26.19932488,Included,38.33492823,Included
+HUBB,Hubbell,Electrical and power infrastructure products. Heavier U.S. utility exposure and smaller scale.,USD,473.61000000,1411.30000000,16.54000000,19.28635478,Included,28.63422007,Included

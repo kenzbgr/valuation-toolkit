@@ -1,0 +1,9 @@
+assumption,shift,dcf_per_share,change_per_share,status
+WACC,-0.01000000,104.75260305,21.45010301,Included
+WACC,0.01000000,68.26372998,-15.03877006,Included
+Terminal growth,-0.01000000,71.18539962,-12.11710042,Included
+Terminal growth,0.01000000,100.57868108,17.27618104,Included
+Revenue growth in all years,-0.01000000,79.78627415,-3.51622589,Included
+Revenue growth in all years,0.01000000,86.92514756,3.62264752,Included
+EBIT margin in all years,-0.01000000,77.85234539,-5.45015465,Included
+EBIT margin in all years,0.01000000,88.75265469,5.45015465,Included

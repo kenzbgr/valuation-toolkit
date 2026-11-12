@@ -1,0 +1,11 @@
+ticker,date,close,currency,source
+LR.PA,2026-05-29,147.65,EUR,https://stockanalysis.com/quote/epa/LR/history/
+SU.PA,2026-05-29,269.95,EUR,https://stockanalysis.com/quote/epa/SU/history/
+RNO.PA,2026-05-29,29.59,EUR,https://stockanalysis.com/quote/epa/RNO/history/
+STLAP.PA,2026-05-29,6.857,EUR,https://stockanalysis.com/quote/epa/STLAP/history/
+SAN.PA,2026-05-29,75.29,EUR,https://stockanalysis.com/quote/epa/SAN/history/
+EL.PA,2026-05-29,175.15,EUR,https://stockanalysis.com/quote/epa/EL/history/
+ENGI.PA,2026-05-29,26.47,EUR,https://stockanalysis.com/quote/epa/ENGI/history/
+VIE.PA,2026-05-29,34.73,EUR,https://stockanalysis.com/quote/epa/VIE/history/
+ETN,2026-05-29,400.6,USD,https://stockanalysis.com/stocks/etn/history/
+HUBB,2026-05-29,473.61,USD,https://stockanalysis.com/stocks/hubb/history/

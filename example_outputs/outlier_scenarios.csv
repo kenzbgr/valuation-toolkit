@@ -1,0 +1,35 @@
+ticker,scenario,dcf_per_share,change_per_share
+LR.PA,Raw base DCF equity residual,83.30250004,0.00000000
+LR.PA,EBIT margin -1pp in each year,77.85234539,-5.45015465
+LR.PA,EBIT margin +1pp in each year,88.75265469,5.45015465
+LR.PA,"Zero net debt, same WACC and operating cash flows",99.44188544,16.13938540
+SU.PA,Raw base DCF equity residual,169.72393199,0.00000000
+SU.PA,EBIT margin -1pp in each year,158.27985350,-11.44407849
+SU.PA,EBIT margin +1pp in each year,181.16801048,11.44407849
+SU.PA,"Zero net debt, same WACC and operating cash flows",196.89301171,27.16907972
+RNO.PA,Raw base DCF equity residual,-71.99978149,0.00000000
+RNO.PA,EBIT margin -1pp in each year,-95.92091682,-23.92113533
+RNO.PA,EBIT margin +1pp in each year,-48.07864616,23.92113533
+RNO.PA,"Zero net debt, same WACC and operating cash flows",110.49209599,182.49187749
+RNO.PA,"Industrial net debt substituted into group bridge, diagnostic only",137.39677967,209.39656117
+STLAP.PA,Raw base DCF equity residual,11.12382782,0.00000000
+STLAP.PA,EBIT margin -1pp in each year,5.28163510,-5.84219272
+STLAP.PA,EBIT margin +1pp in each year,16.96602054,5.84219272
+STLAP.PA,"Zero net debt, same WACC and operating cash flows",16.85665488,5.73282706
+STLAP.PA,"Industrial net debt substituted into group bridge, diagnostic only",19.16732109,8.04349327
+SAN.PA,Raw base DCF equity residual,128.10332679,0.00000000
+SAN.PA,EBIT margin -1pp in each year,120.92139391,-7.18193289
+SAN.PA,EBIT margin +1pp in each year,135.28525968,7.18193289
+SAN.PA,"Zero net debt, same WACC and operating cash flows",138.64637315,10.54304636
+EL.PA,Raw base DCF equity residual,112.72460717,0.00000000
+EL.PA,EBIT margin -1pp in each year,101.76368160,-10.96092558
+EL.PA,EBIT margin +1pp in each year,123.68553275,10.96092558
+EL.PA,"Zero net debt, same WACC and operating cash flows",136.15775556,23.43314838
+ENGI.PA,Raw base DCF equity residual,27.92011944,0.00000000
+ENGI.PA,EBIT margin -1pp in each year,22.42196996,-5.49814948
+ENGI.PA,EBIT margin +1pp in each year,33.41826892,5.49814948
+ENGI.PA,"Zero net debt, same WACC and operating cash flows",44.29429707,16.37417763
+VIE.PA,Raw base DCF equity residual,57.00075035,0.00000000
+VIE.PA,EBIT margin -1pp in each year,45.55739426,-11.44335609
+VIE.PA,EBIT margin +1pp in each year,68.44410645,11.44335609
+VIE.PA,"Zero net debt, same WACC and operating cash flows",83.49128749,26.49053714

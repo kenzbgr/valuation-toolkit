@@ -1,0 +1,2 @@
+ticker,name,rationale,currency,close,ebitda,eps,ev_ebitda,ev_flag,pe,pe_flag
+STLAP.PA,Stellantis,"Passenger cars, light commercial vehicles, European footprint and captive finance. Greater North American exposure. Loss-year multiples are flagged.",EUR,6.85700000,-21367.00000000,-7.75000000,N/A,Nonpositive FY EBITDA (-21367),N/A,Nonpositive FY EPS (-7.75)
