@@ -1,5 +1,7 @@
 # Python Valuation Toolkit
 
+The Legrand case study estimates a base-case value of €92.42 per share as of 29 May 2026, approximately 37% below the €147.65 closing price. The DCF uses a 7.70% WACC, 2.0% terminal growth and a forecast EBIT margin reaching 19.8% in 2030. The bull case reaches €146.46 by combining stronger growth, higher margins and a lower cost of capital. Peer EV/EBITDA multiples imply €147.18–€205.77 per share. This divergence highlights the sensitivity of the valuation to operating forecasts and discount-rate assumptions, alongside the higher valuations embedded in peer market prices.
+
 ## Run the Legrand demo
 
 ```bash
