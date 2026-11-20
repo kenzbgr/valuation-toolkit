@@ -22,6 +22,10 @@ The five-year unlevered DCF uses FY2025 and Q1 2026 disclosures. Base sales grow
 
 In the reverse DCF, one additional point of EBIT margin in each forecast year adds €6.09 per share. The margin-only result implies a 28.87% reported EBIT margin in 2030, versus 19.1% in 2025. Growth and margins could contribute jointly.
 
+## What the market is pricing
+
+Reaching €15bn of 2030 sales at base margins and WACC implies €103.34 per share before incremental deal costs, €44.31 below the €147.65 close. The remaining gap could reflect higher margins, better acquisition returns, a lower required return, or a combination of those factors.
+
 ## Equity bridge and trading comparables
 
 Base enterprise value of €29,556.1m less €5,364.8m of adjusted net debt and €33.2m of minority interests gives €24,158.1m of equity value across 261.395m shares. Adjusted net debt includes the detached dividend and a €300m allowance for announced acquisitions, less retained cash estimated by prorating April–December cash generation.
